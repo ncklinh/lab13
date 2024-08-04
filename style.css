@@ -1,0 +1,21 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("./imgs/image_1.jpeg");
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("./imgs/image_2.jpeg");
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("./imgs/image_3.jpeg");
+}
+
+.carousel-item {
+  width: 100%; /* Or any desired width */
+  height: 0; /* Initial height reset is crucial */
+  padding-bottom: 40%;
+}
